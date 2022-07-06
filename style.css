@@ -114,3 +114,37 @@ body {
 #education {
     background-color: rgba(255, 166, 0, 0.322);
 }
+
+footer {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.87);
+
+    padding: 25px;
+}
+
+footer h1 {
+    color: tomato;
+    font-weight: 700;
+    font-style: oblique;
+
+}
+
+footer {
+    color: gray;
+}
+
+#update {
+    padding: 60px;
+    background-color: antiquewhite;
+}
+
+.flexible-container-3 {
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+    padding: 50px;
+    width: max-contents;
+
+}
