@@ -1,3 +1,42 @@
-h1 {
-    color: brown;
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    margin: 0;
+    margin-top: 0%;
+}
+
+
+
+
+.top-page {
+    background-image: url(images/donation13.jpg);
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
+
+.donate-now {
+    text-align: center;
+    padding-top: 80px;
+
+}
+
+.donate-now h1 {
+    text-align: center;
+    font-size: 60px;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, tomato);
+
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
 }
